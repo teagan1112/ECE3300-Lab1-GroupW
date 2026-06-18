@@ -6,4 +6,4 @@ Files:
 - PDF report
 - ZIP submission
 
-Video Link: 
+Video Link: https://youtu.be/vLWRK_sMb9I
